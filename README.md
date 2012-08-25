@@ -22,4 +22,6 @@ A github repo created by the A.R.E maintainer ( https://github.com/hannoL/AREsof
 
 AREsoft-updater will check for the latest available version of each individual project/tool listed above and compare it with the local (installed) version in A.R.E. If newer version is available, AREsoft-updater will automatically download and install the update for your A.R.E
 
+AREsoft-updater will require curl to work. Kindly install curl in your A.R.E virtual machine by typing sudo apt-get install curl
+
 AREsoft-updater is released under WTFPL (Do What The Fuck You Want To Public License) http://sam.zoy.org/wtfpl/
