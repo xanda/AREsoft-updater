@@ -30,10 +30,10 @@ AREsoft-updater is released under WTFPL (Do What The Fuck You Want To Public Lic
 Usage
 =====
 
-''chmod +x AREsoft-updater.sh''
+chmod +x AREsoft-updater.sh
 
-''./AREsoft-updater.sh''
+./AREsoft-updater.sh
 
 or
 
-''bash AREsoft-updater.sh''
+bash AREsoft-updater.sh
