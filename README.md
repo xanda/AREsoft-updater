@@ -25,3 +25,14 @@ AREsoft-updater will check for the latest available version of each individual p
 AREsoft-updater will require curl to work. Kindly install curl in your A.R.E virtual machine by typing sudo apt-get install curl
 
 AREsoft-updater is released under WTFPL (Do What The Fuck You Want To Public License) http://sam.zoy.org/wtfpl/
+
+
+Usage
+=====
+
+# chmod +x AREsoft-updater.sh
+# ./AREsoft-updater.sh
+
+or
+
+# bash AREsoft-updater.sh
