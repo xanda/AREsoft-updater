@@ -80,8 +80,8 @@ echo "===================================="
 echo "Checking apkinspector for new update"
 echo "kindly ignore 'No such file or directory' warning"
 cd ~/tools/apkinspector/
-isGit=`ls .hg | wc -l`
-if [ "$isGit" != "0" ];
+isGit=`ls .git | wc -l`
+if [ "$isGit" == "0" ];
 then
    echo "Migrating to the new Git repo"
    cd ~/tools/
